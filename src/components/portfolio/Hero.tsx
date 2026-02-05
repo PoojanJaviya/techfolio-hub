@@ -6,10 +6,10 @@ const Hero = () => {
       <div className="text-center max-w-4xl mx-auto animate-fade-in">
         <h1 className="text-5xl md:text-7xl font-bold mb-6 tracking-tight">
           <span className="text-foreground">Hi, I'm </span>
-          <span className="text-gradient">Your Name</span>
+          <span className="text-gradient">Poojan Javiya</span>
         </h1>
         <p className="text-xl md:text-2xl text-muted-foreground mb-8 animate-fade-in-delay-1">
-          Computer Science Student | Backend & Machine Learning Enthusiast
+          Computer Science Student | Backend & Machine Learning Engineer
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in-delay-2">
           <a
