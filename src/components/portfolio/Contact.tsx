@@ -13,7 +13,7 @@ const Contact = () => {
         
         <div className="flex justify-center gap-6">
           <a
-            href="mailto:your.email@example.com"
+            href="mailto:poojanjaviya07@gmail.com"
             className="flex items-center gap-3 px-6 py-4 rounded-xl gradient-card border border-border hover:border-primary/30 transition-all duration-300 group"
           >
             <Mail className="w-6 h-6 text-primary" />
@@ -21,7 +21,7 @@ const Contact = () => {
           </a>
           
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/PoojanJaviya"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 px-6 py-4 rounded-xl gradient-card border border-border hover:border-primary/30 transition-all duration-300 group"
@@ -31,7 +31,7 @@ const Contact = () => {
           </a>
           
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="https://linkedin.com/in/poojan-javiya"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 px-6 py-4 rounded-xl gradient-card border border-border hover:border-primary/30 transition-all duration-300 group"
